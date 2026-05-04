@@ -1,0 +1,7 @@
+optimizer,test_mse,test_r2,iterations
+VanillaGradientDescent,0.203880,0.823530,389
+StochasticGradientDescent,0.226605,0.803860,1000
+SAGDescent,0.208579,0.819463,485
+MomentumDescent,0.189547,0.835936,634
+Adam,0.186419,0.838644,1000
+
